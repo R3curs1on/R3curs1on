@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vedant</h1>
-<h3 align="center">A passionate developer from India</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=r3curs1on&label=Profile%20views&color=0e75b6&style=flat" alt="r3curs1on" />
 </div>
 
-<br>
 
 ## About Me ✨
 
