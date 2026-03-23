@@ -33,7 +33,7 @@
 ---
 
 ## Languages and Tools 💻
-
+  
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -63,12 +63,6 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-        <br>Flutter
-      </a>
-    </td>
-    <td align="center" width="96">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
         <br>Git
@@ -86,14 +80,14 @@
         <br>Java
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
         <br>JavaScript
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -112,38 +106,18 @@
         <br>MySQL
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
         <br>Node.js
       </a>
     </td>
-    <td align="center" width="96">
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-        <br>Pandas
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-        <br>Postman
-      </a>
-    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
         <br>Python
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-        <br>React
       </a>
     </td>
     <td align="center" width="96">
@@ -152,19 +126,14 @@
         <br>Selenium
       </a>
     </td>
-    <td align="center" width="96">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-        <br>Tailwind
-      </a>
-    </td>
-    <td align="center" width="96">
-      &nbsp;
-    </td>
+    <td width="96"></td>
+    <td width="96"></td>
   </tr>
 </table>
 
----
+
+----
+
 
 ## GitHub Stats 📈
 
