@@ -1,142 +1,68 @@
-<h1 align="center">Hi 👋, I'm Vedant</h1>
+<h1 align="center">Hi 👋, I'm Vedant Shendge</h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=r3curs1on&label=Profile%20views&color=0e75b6&style=flat" alt="r3curs1on" />
+  <img src="https://komarev.com/ghpvc/?username=r3curs1on&label=Profile%20views&color=14b8a6&style=flat" alt="Profile Views" />
 </div>
 
+<br>
 
-## About Me ✨
+<h3 align="center">
+  🚀 <strong>Check out my live portfolio:</strong> <a href="https://r3curs1on.github.io/Portfolio/">r3curs1on.github.io/Portfolio</a>
+</h3>
 
-- 💻 My primary languages are **Java, Python , C++ and JavaScript**.
-- 🌱 I’m currently diving deep into the **MERN** stack (MongoDB, Express.js, React, Node.js).
+---
+
+## About Me 
+
+-  3rd-year Computer Engineering student at VIIT Pune.
+-  I specialize in building backend-heavy applications, search pipelines, and ML-integrated systems.
+-  **Competitive Programmer:** Top 10% globally on LeetCode (Max Rating: 1733) and active on Codeforces/CodeChef.
+
+---
+
+## Tech Stack 💻
+
+<p align="left">
+  <strong>Languages:</strong><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+<p align="left">
+  <strong>Backend & Databases:</strong><br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" alt="Express" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+<p align="left">
+  <strong>Tools & ML:</strong><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+</p>
 
 ---
 
 ## Connect with Me 🔗
 
 <p align="center">
-  <a href="https://www.codechef.com/users/adorn_frost_13" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adorn_frost_13" height="30" width="40" />
+  <a href="https://leetcode.com/u/Vedant333/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
-  &nbsp;
   <a href="https://codeforces.com/profile/vedant333" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vedant333" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  &nbsp;
-  <a href="https://www.leetcode.com/vedant333" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedant333" height="30" width="40" />
+  <a href="https://www.codechef.com/users/adorn_frost_13" target="_blank">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.linkedin.com/in/vedant-shendge-a1258b2b4" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
----
-
-## Languages and Tools 💻
-  
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-        <br>Android
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-        <br>C++
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-        <br>CSS3
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-        <br>Express
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-        <br>Git
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-        <br>HTML5
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-        <br>Java
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-        <br>JavaScript
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-        <br>Linux
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-        <br>MongoDB
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-        <br>MySQL
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-        <br>Node.js
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-        <br>Python
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-        <br>Selenium
-      </a>
-    </td>
-    <td width="96"></td>
-    <td width="96"></td>
-  </tr>
-</table>
-
-
-----
-
-
-## GitHub Stats 📈
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r3curs1on&show_icons=true&locale=en&theme=radical" alt="r3curs1on GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r3curs1on&show_icons=true&locale=en&layout=compact&theme=radical" alt="r3curs1on Top Languages" />
-</div>
