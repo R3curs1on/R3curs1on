@@ -16,7 +16,7 @@
 
 -  3rd-year Computer Engineering student at VIIT Pune.
 -  I specialize in building backend-heavy applications, search pipelines, and ML-integrated systems.
--  **Competitive Programmer:** Top 10% globally on LeetCode (Max Rating: 1733) and active on Codeforces/CodeChef.
+-  **Competitive Programmer:** Top 10% globally on LeetCode (Max Rating: 1733) , active on Codeforces, 3Star on CodeChef.
 
 ---
 
